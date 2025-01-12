@@ -1,4 +1,5 @@
-# PickOptima: Optimizing Order Picking Efficiency
+# SmartChain : A Warehouse Optimization
+
 
 PickOptima is a powerful simulation tool designed to analyze and optimize order-picking efficiency based on wave size. By providing adjustable parameters and visual insights, this tool helps businesses streamline their picking process to enhance operational productivity.
 
