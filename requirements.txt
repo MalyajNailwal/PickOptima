@@ -3,4 +3,5 @@ spicy
 matplotlib
 streamlit
 numpy
+plotly
 #py = 3.13.1
