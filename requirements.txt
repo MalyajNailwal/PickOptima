@@ -1,0 +1,6 @@
+pandas
+spicy
+matplotlib
+streamlit
+numpy
+#py = 3.13.1
