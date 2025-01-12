@@ -144,5 +144,4 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-**Author:** Malyaj Nailwal  
-**GitHub:** [MalyajNailwal](https://github.com/MalyajNailwal)
+📫 Reach me at pyfaith5@gmail.com 
