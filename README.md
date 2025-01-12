@@ -142,6 +142,4 @@ Contributions are welcome! To contribute:
 5. Open a pull request.
 
 
-## Contact
 
-📫 Reach me at pyfaith5@gmail.com 
